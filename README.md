@@ -1,7 +1,7 @@
 # SRTSplitter-for-Video-Editing
-# Modern SRT Splitter
+# SRT Splitter
 
-Modern SRT Splitter is a Windows application that splits SRT subtitle files into **2-word chunks (or any number of words you choose)**.
+SRT Splitter is a Windows application that splits SRT subtitle files into **2-word chunks (or any number of words you choose)**.
 
 ---
 
@@ -32,9 +32,9 @@ Modern SRT Splitter is a Windows application that splits SRT subtitle files into
 
 ---
 
-# Modern SRT Splitter (Türkçe)
+# SRT Splitter (Türkçe)
 
-Modern SRT Splitter, SRT altyazı dosyalarını **2’şer kelime (veya istediğiniz sayıda)** olacak şekilde bölen Windows uygulamasıdır.
+SRT Splitter, SRT altyazı dosyalarını **2’şer kelime (veya istediğiniz sayıda)** olacak şekilde bölen Windows uygulamasıdır.
 
 ---
 
